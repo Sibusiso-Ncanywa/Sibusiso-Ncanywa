@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate researcher and developer exploring the intersection of artificial intelligence and African indigenous knowledge. As a PhD candidate, my work leverages **deep learning** (CNN, RNN, transfer learning) to solve impactful problems in **audio signal processing** and machine learning.
+I'm a passionate researcher and developer exploring the intersection of artificial intelligence and African indigenous knowledge. As a PhD candidate, my work leverages **deep learning** to solve impactful problems in **audio signal processing** and machine learning.
 
 - 🧠 **Merging AI with Culture:** Committed to preserving and enhancing African indigenous knowledge through technology.
 - 🎶 **Sound Explorer:** Applying cutting-edge ML to music and audio for innovative, real-world solutions.
